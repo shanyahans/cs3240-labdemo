@@ -1,3 +1,2 @@
-def greetings(msg):
-    #print(msg)
-    print("hello")
+def getHelper(self):
+    print(greetings(msg))
